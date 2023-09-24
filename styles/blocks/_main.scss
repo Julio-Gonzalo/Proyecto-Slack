@@ -1,0 +1,13 @@
+.main{
+          width: 100vw;
+          height: 90vh;
+
+          @import "./sub_main/section1";
+          @import "./sub_main/div1";
+          @import "./sub_main/section2";
+          @import "./sub_main/section3";
+          @import "./sub_main/section4";
+          @import "./sub_main/section5";
+          @import "./sub_main/section6";
+          @import "./sub_main/section7";
+}
