@@ -1,0 +1,21 @@
+@media (min-width: 485px){
+
+          @import "./responsive-blocks/responsive-blocks-movil-grande/main-movil-grande";
+          @import "./responsive-blocks/responsive-blocks-movil-grande/footer-movil-grande";
+
+}
+
+@media (min-width: 600px){
+
+          @import "./responsive-blocks/responsive-blocks-tablet/main-tablet";
+          @import "./responsive-blocks/responsive-blocks-tablet/footer-tablet";          
+
+}
+
+@media (min-width: 820px){
+
+          @import "./responsive-blocks/responsive-blocks-tablet-grande/header-tablet-grande";
+          @import "./responsive-blocks/responsive-blocks-tablet-grande/main-tablet-grande";
+          @import "./responsive-blocks/responsive-blocks-tablet-grande/footer-tablet-grande";          
+
+}
